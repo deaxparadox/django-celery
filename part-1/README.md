@@ -17,6 +17,6 @@ Contents:
 - [Trigger a Task](docs/105-trigger-a-task.md)
 - [Task Status](docs/106-task-status.md)
 - [Celery Logs](docs/107-celery-logs.md)
-- [Flower Dashboard](https://)
-- [Tests](https://)
+- [Flower Dashboard](docs/108-flow-dashboard.md)
+- [Tests](docs/109-tests.md)
 - [Conclusion](https://)
