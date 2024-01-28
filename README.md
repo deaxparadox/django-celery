@@ -15,3 +15,4 @@ With Celery, you can schedule tasks that run outside the HTTP request/response f
 Parts:
 
 - [Part 1: Asynchronous Tasks with Django and Celery](part-1/README.md)
+- [Part 2: Handling Periodic Tasks in Django with Celery and Docker](part-2/README.md)
